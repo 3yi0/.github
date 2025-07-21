@@ -1,1 +1,3 @@
-# .github
+- 👋 Hi, I’m @3yi0
+- 📫 How to reach me? You can mail to *i@3yi.me*
+- ⚡ Skills: TS / JS / Vue
